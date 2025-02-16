@@ -141,6 +141,7 @@ nav:
     - Build your own Threat Scenario:
       - Scenario: usage/scenario.md
       - Generating Scenario from OpenCTI: usage/scenario/opencti_scenario.md
+      - Default Asset Rules: usage/default_asset_rules.md
       - Importing injects into a Scenario: usage/scenario_import.md
       - Assets: usage/assets.md
       - People: usage/people.md
@@ -154,9 +155,6 @@ nav:
       - Payloads: usage/payloads/payloads.md
     - Share and export:
       - Simulations: usage/simulation_reports.md
-    - Improve your security posture:
-      - Mitigations: usage/mitigations.md
-      - Skills: usage/skills.md
     - Interact with your environment:
       - Injectors:
         - Overview: usage/injectors.md
@@ -181,7 +179,9 @@ nav:
     - Prerequisites:
       - Ubuntu: development/environment_ubuntu.md
       - Windows: development/environment_windows.md
+    - Build from source: development/build_from_source.md
     - Platform: development/platform.md
+    - Collectors: development/collectors.md
     - Injectors: development/injectors.md
     - REST API: development/api-usage.md
 
